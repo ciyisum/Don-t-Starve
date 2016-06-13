@@ -1,0 +1,11 @@
+name = "BackPackPlus"
+version = "1.1"
+description = "BackPackPlus v"..version.."\n adds backpack slot to inventory"
+author = "Rincewind"
+forumthread = "N/A"
+api_version = 6
+icon_atlas = "preview.xml"
+icon = "preview.tex"
+dont_starve_compatible = true
+reign_of_giants_compatible = true
+shipwrecked_compatible = true
